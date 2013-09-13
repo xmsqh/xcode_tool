@@ -16,6 +16,9 @@
 [[NSNotificationCenter defaultCenter] postNotificationName:&lt;#notification_name#&gt; object:self userInfo:userInfo];
 
 - (void)&lt;#functionname#&gt;:(NSNotification*)notification
+{
+    //your code here
+}
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>84587A91-678A-4727-9EBA-6F9D327EF485</string>
